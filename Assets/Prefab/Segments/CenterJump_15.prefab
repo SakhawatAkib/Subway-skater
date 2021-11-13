@@ -69,6 +69,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -93,6 +94,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1657179086900830357
 GameObject:
   m_ObjectHideFlags: 0
@@ -162,6 +164,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -186,6 +189,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1657179086900830359
 GameObject:
   m_ObjectHideFlags: 0
@@ -310,6 +314,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -334,6 +339,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1657179086900830441
 GameObject:
   m_ObjectHideFlags: 0
@@ -495,6 +501,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -519,6 +526,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1001 &6294983328931027136
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -536,15 +544,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4904412205003030, guid: c74db727d822ba240a944c478be343e1, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 1.8689545
       objectReference: {fileID: 0}
     - target: {fileID: 4904412205003030, guid: c74db727d822ba240a944c478be343e1, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.5
+      value: 0.35421
       objectReference: {fileID: 0}
     - target: {fileID: 4904412205003030, guid: c74db727d822ba240a944c478be343e1, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.75
+      value: 0.56082094
       objectReference: {fileID: 0}
     - target: {fileID: 4904412205003030, guid: c74db727d822ba240a944c478be343e1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -556,7 +564,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4904412205003030, guid: c74db727d822ba240a944c478be343e1, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10
+      value: 10.12
       objectReference: {fileID: 0}
     - target: {fileID: 4904412205003030, guid: c74db727d822ba240a944c478be343e1, type: 3}
       propertyPath: m_LocalRotation.w
